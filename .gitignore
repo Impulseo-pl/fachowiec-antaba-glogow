@@ -1,0 +1,6 @@
+_src/raw/
+_src/foto/
+_src/commons/
+_src/*.png
+_src/*.jpg
+__pycache__/

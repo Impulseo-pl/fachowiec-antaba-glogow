@@ -1,0 +1,218 @@
+[
+ {
+  "slug": "drzwi-wewnetrzne-biale-ramiakowe-glogow",
+  "cat": "wew",
+  "alt": "Białe drzwi wewnętrzne ramiakowe przy ciemnej, strukturalnej tapecie",
+  "w": 896,
+  "h": 2000,
+  "sizes": [
+   480,
+   896
+  ]
+ },
+ {
+  "slug": "drzwi-wewnetrzne-biale-z-niebieskim-paskiem",
+  "cat": "wew",
+  "alt": "Białe drzwi wewnętrzne z pionowym niebieskim przeszkleniem i czarną klamką",
+  "w": 432,
+  "h": 960,
+  "sizes": [
+   432
+  ]
+ },
+ {
+  "slug": "drzwi-wewnetrzne-biale-frezowane-komplet",
+  "cat": "wew",
+  "alt": "Dwoje białych drzwi z poziomymi frezami i czarnymi klamkami w jasnym przedpokoju",
+  "w": 432,
+  "h": 960,
+  "sizes": [
+   432
+  ]
+ },
+ {
+  "slug": "drzwi-zewnetrzne-ciemny-orzech-z-przeszkleniem",
+  "cat": "zew",
+  "alt": "Drzwi zewnętrzne w kolorze ciemnego orzecha z pionowym przeszkleniem, tuż po osadzeniu",
+  "w": 448,
+  "h": 1000,
+  "sizes": [
+   448
+  ]
+ },
+ {
+  "slug": "drzwi-zewnetrzne-dwuskrzydlowe-antracyt",
+  "cat": "zew",
+  "alt": "Dwuskrzydłowe drzwi zewnętrzne w antracycie z długim pochwytem, wejście do domu jednorodzinnego",
+  "w": 448,
+  "h": 1000,
+  "sizes": [
+   448
+  ]
+ },
+ {
+  "slug": "drzwi-wewnetrzne-biale-trzy-frezy",
+  "cat": "wew",
+  "alt": "Białe drzwi wewnętrzne z trzema poziomymi frezami i czarną klamką",
+  "w": 896,
+  "h": 2000,
+  "sizes": [
+   480,
+   896
+  ]
+ },
+ {
+  "slug": "drzwi-do-mieszkania-szary-dab-wizjer",
+  "cat": "mie",
+  "alt": "Drzwi wejściowe do mieszkania w szarym dekorze drewna, z wizjerem i frezami",
+  "w": 1080,
+  "h": 1440,
+  "sizes": [
+   480,
+   900,
+   1080
+  ]
+ },
+ {
+  "slug": "drzwi-do-mieszkania-ciemne-z-aplikacja",
+  "cat": "mie",
+  "alt": "Ciemne drzwi wejściowe do mieszkania z dwiema łukowymi aplikacjami",
+  "w": 1152,
+  "h": 1548,
+  "sizes": [
+   480,
+   900,
+   1152
+  ]
+ },
+ {
+  "slug": "drzwi-zewnetrzne-czarne-cztery-szyby",
+  "cat": "zew",
+  "alt": "Czarne drzwi zewnętrzne z czterema poziomymi szybami w trakcie montażu, Głogów",
+  "w": 1536,
+  "h": 2048,
+  "sizes": [
+   480,
+   900,
+   1400
+  ]
+ },
+ {
+  "slug": "drzwi-wewnetrzne-biale-z-tulejami",
+  "cat": "wew",
+  "alt": "Dwoje białych drzwi wewnętrznych, jedne z tulejami wentylacyjnymi, w narożniku pokoju",
+  "w": 1533,
+  "h": 2048,
+  "sizes": [
+   480,
+   900,
+   1400
+  ]
+ },
+ {
+  "slug": "drzwi-wewnetrzne-okleina-drewno-przeszklenia",
+  "cat": "wew",
+  "alt": "Dwa modele drzwi wewnętrznych w okleinie drewnopodobnej z poziomymi przeszkleniami",
+  "w": 1152,
+  "h": 1548,
+  "sizes": [
+   480,
+   900,
+   1152
+  ]
+ },
+ {
+  "slug": "drzwi-do-mieszkania-zloty-dab-intarsje",
+  "cat": "mie",
+  "alt": "Drzwi wejściowe do mieszkania w złotym dębie z czterema jasnymi intarsjami",
+  "w": 768,
+  "h": 1024,
+  "sizes": [
+   480,
+   768
+  ]
+ },
+ {
+  "slug": "drzwi-przesuwne-biale-przeszklone",
+  "cat": "prz",
+  "alt": "Białe, częściowo przeszklone drzwi przesuwne naścienne w trakcie montażu",
+  "w": 768,
+  "h": 1024,
+  "sizes": [
+   480,
+   768
+  ]
+ },
+ {
+  "slug": "drzwi-dwuskrzydlowe-dab-czarna-rama-szprosy",
+  "cat": "wew",
+  "alt": "Dwuskrzydłowe drzwi w dębowej okleinie z czarną ramą i przeszkleniem ze szprosami",
+  "w": 918,
+  "h": 2048,
+  "sizes": [
+   480,
+   900,
+   918
+  ]
+ },
+ {
+  "slug": "drzwi-przesuwne-grafit-i-skrzydlowe",
+  "cat": "prz",
+  "alt": "Grafitowe drzwi przesuwne i skrzydłowe z pionowymi aplikacjami w jednym korytarzu",
+  "w": 977,
+  "h": 1734,
+  "sizes": [
+   480,
+   900,
+   977
+  ]
+ },
+ {
+  "slug": "drzwi-szklane-loft-czarna-rama",
+  "cat": "wew",
+  "alt": "Szklane drzwi w czarnej ramie ze szprosami w stylu loft, tuż po montażu",
+  "w": 1153,
+  "h": 2048,
+  "sizes": [
+   480,
+   900,
+   1153
+  ]
+ },
+ {
+  "slug": "drzwi-wewnetrzne-dab-czarna-oscieznica",
+  "cat": "wew",
+  "alt": "Drzwi wewnętrzne w jasnym dębie z czarną ościeżnicą i czarną klamką",
+  "w": 1153,
+  "h": 2048,
+  "sizes": [
+   480,
+   900,
+   1153
+  ]
+ },
+ {
+  "slug": "drzwi-wewnetrzne-biale-czarne-oscieznice",
+  "cat": "wew",
+  "alt": "Dwoje białych gładkich drzwi z czarnymi ościeżnicami w narożniku przedpokoju",
+  "w": 1153,
+  "h": 2048,
+  "sizes": [
+   480,
+   900,
+   1153
+  ]
+ },
+ {
+  "slug": "drzwi-wewnetrzne-dab-czarne-oscieznice-para",
+  "cat": "wew",
+  "alt": "Pojedyncze i dwuskrzydłowe drzwi w jasnym dębie z czarnymi ościeżnicami",
+  "w": 1153,
+  "h": 2048,
+  "sizes": [
+   480,
+   900,
+   1153
+  ]
+ }
+]
