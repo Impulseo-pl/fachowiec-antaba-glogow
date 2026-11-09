@@ -4,3 +4,5 @@ _src/commons/
 _src/*.png
 _src/*.jpg
 __pycache__/
+_src/salon/
+_src/v1/
